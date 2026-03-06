@@ -13,15 +13,7 @@ O CS50 é uma introdução aos fundamentos da ciência da computação e da prog
 Semana	Tópico	Problem Sets	Status
 Week 0	Scratch	Scratch Project	✅ Concluído
 Week 1	C	Hello, Mario, Cash, Credit	✅ Concluído
-Week 2	Arrays	Scrabble, Readability, Caesar	⏳ Pendente
-Week 3	Algorithms	Plurality, Runoff, Tideman	⏳ Pendente
-Week 4	Memory	Volume, Filter, Recover	⏳ Pendente
-Week 5	Data Structures	Speller, Inheritance	⏳ Pendente
-Week 6	Python	Hello, Mario, Cash, Credit, DNA	⏳ Pendente
-Week 7	SQL	Songs, Movies, Fiftyville	⏳ Pendente
-Week 8	Web	Trivia, Homepage	⏳ Pendente
-Week 9	Flask	Birthdays, Finance	⏳ Pendente
-Final	Projeto Final	-	⏳ Pendente
+
 
 🛠️ Tecnologias Aprendidas
 C - Programação estruturada, ponteiros, gerenciamento de memória
