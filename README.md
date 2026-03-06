@@ -10,8 +10,11 @@ Este repositório contém meus projetos, exercícios e anotações do curso CS50
 O CS50 é uma introdução aos fundamentos da ciência da computação e da programação, ensinando a pensar algoritmicamente e resolver problemas de forma eficiente. 
 
 🚀 Progresso
+
 Semana	Tópico	Problem Sets	Status
+
 Week 0	Scratch	Scratch Project	✅ Concluído
+
 Week 1	C	Hello, Mario, Cash, Credit	✅ Concluído
 
 
