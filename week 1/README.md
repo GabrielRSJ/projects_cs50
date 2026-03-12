@@ -1,4 +1,5 @@
 📝 O que aprendi
+
 Nessa semana entrei no C, uma linguagem de programação compilada. Foi dificil no começo porque a sintaxe é bem diferente do Python, mas percebi que os conceitos de lógica são os mesmos que usei no Scratch.
 
 Aprendi sobre:
