@@ -1,9 +1,9 @@
 📝 O que aprendi
-Nessa semana entrei no C, uma linguagem de programação compilada e de baixo nível. Foi um choque no começo porque a sintaxe é bem diferente do Python, mas percebi que os conceitos de lógica são os mesmos que usei no Scratch.
+Nessa semana entrei no C, uma linguagem de programação compilada. Foi dificil no começo porque a sintaxe é bem diferente do Python, mas percebi que os conceitos de lógica são os mesmos que usei no Scratch.
 
 Aprendi sobre:
 
-Sintaxe básica do C: #include, int main(void), printf, {}, ; (no começo, esquecer o ponto e vírgula era garantia de erro! )
+Sintaxe básica do C: #include, int main(void), printf, {}, ; 
 
 Tipos de dados: int, float, char, string (com a biblioteca CS50)
 
@@ -11,7 +11,7 @@ Compilação: Entendi que diferente do Python, o C precisa ser compilado com mak
 
 Entrada do usuário: Usei as funções da biblioteca CS50 (get_int, get_string, etc.) que facilitam muito
 
-Loops: for, while, do-while (descobri que do-while executa pelo menos uma vez, diferente do while normal)
+Loops: for, while, do-while 
 
 Condicionais: if, else if, else
 
@@ -56,8 +56,6 @@ Loops while
 
 Operações matemáticas (divisão, módulo)
 
-Arredondamento com round para evitar erros de ponto flutuante
-
 Desafio: Evitar erros de precisão com números decimais.
 
 3. Credit (validação de cartão)
@@ -71,7 +69,7 @@ Manipulação de dígitos com matemática
 
 Loops para percorrer cada dígito
 
-Lógica complexa de validação
+Lógica de validação
 
 Desafio: Foi o mais difícil! Entender o algoritmo de Luhn e separar cada dígito individualmente.
 
@@ -86,7 +84,7 @@ Mario - lógica dos espaços: Entender que altura - linha - 1 espaços era neces
 
 Credit - algoritmo de Luhn: Foi um exercício de paciência e lógica matemática
 
-Debugging: Aprendi a usar printf para ver valores intermediários (meu melhor amigo!)
+Debugging: Aprendi a usar printf para ver valores intermediários 
 
 📦 Como executar os projetos
 Pré-requisitos
@@ -95,7 +93,7 @@ Compilador C (gcc)
 Biblioteca CS50 instalada
 
 Exemplo (Mario)
-bash
+
 cd week1/mario
 make mario
 ./mario
