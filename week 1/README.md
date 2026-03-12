@@ -98,3 +98,5 @@ Exemplo (Mario)
 cd week1/mario
 make mario
 ./mario
+
+mario.c link: https://github.com/GabrielRSJ/projects_cs50/blob/main/week%201/mario.c
