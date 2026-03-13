@@ -4,20 +4,27 @@ Essa semana foi sobre arrays (listas em C) e como os computadores armazenam e ma
 
 Principais aprendizados:
 
-Conceito	O que significa
-Arrays	Coleções de elementos do mesmo tipo armazenados em sequência na memória
-Strings	Na verdade são arrays de caracteres (char) terminados com \0 (null)
-Passagem por valor vs referência	Entender que arrays são passados como referência (o índice original muda)
-Argumentos de linha de comando	argc e argv para passar parâmetros ao executar o programa
+
+Arrays:	Coleções de elementos do mesmo tipo armazenados em sequência na memória
+
+Strings:	Na verdade são arrays de caracteres (char) terminados com \0 (null)
+
+Passagem por valor vs referência:	Entender que arrays são passados como referência (o índice original muda)
+
+Argumentos de linha de comando:	argc e argv para passar parâmetros ao executar o programa
 🧠 Conceitos que pratiquei
-Conceito	Como usei em C
-Declaração de arrays	int scores[3]; ou string words[10];
-Acesso por índice	array[0] para primeiro elemento
-Strings como arrays	string s = "hello"; → s[0] = 'h', s[4] = 'o'
-Tamanho de strings	Usei strlen() da biblioteca <string.h>
-Argumentos de linha de comando	int main(int argc, string argv[]) para receber parâmetros
-Cifra de César	Deslocar letras no alfabeto usando matemática
-Validação de entrada	Verificar se usuário passou argumentos corretos
+
+Declaração de arrays:	int scores[3]; ou string words[10];
+
+Acesso por índice:	array[0] para primeiro elemento
+
+Strings como arrays:	string s = "hello"; → s[0] = 'h', s[4] = 'o'
+
+Tamanho de strings:	Usei strlen() da biblioteca <string.h>
+
+Argumentos de linha de comando:	int main(int argc, string argv[]) para receber parâmetros
+
+Validação de entrada:	Verificar se usuário passou argumentos corretos
 🏗️ Projetos que desenvolvi
 1. Scrabble
 Programa que calcula a pontuação de duas palavras no jogo Scrabble e declara o vencedor.
