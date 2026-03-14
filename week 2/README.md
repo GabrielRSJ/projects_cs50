@@ -66,3 +66,7 @@ Desafios que enfrentei
 Entender que string = array de char: No começo era abstrato, mas depois de manipular caractere por caractere fez sentido
 
 Contar palavras corretamente: Perceber que espaços separam palavras, mas o último caractere não tem espaço
+
+cd week2/scrabble
+make scrabble
+./scrabble
