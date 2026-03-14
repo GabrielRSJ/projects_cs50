@@ -68,5 +68,9 @@ Entender que string = array de char: No começo era abstrato, mas depois de mani
 Contar palavras corretamente: Perceber que espaços separam palavras, mas o último caractere não tem espaço
 
 cd week2/scrabble
+
 make scrabble
+
 ./scrabble
+
+link: https://github.com/GabrielRSJ/projects_cs50/blob/main/week%202/scrabble.c
