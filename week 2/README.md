@@ -25,47 +25,77 @@ Tamanho de strings:	Usei strlen() da biblioteca <string.h>
 Argumentos de linha de comando:	int main(int argc, string argv[]) para receber parâmetros
 
 Validação de entrada:	Verificar se usuário passou argumentos corretos
+
 🏗️ Projetos que desenvolvi
+
 1. Scrabble
+
 Programa que calcula a pontuação de duas palavras no jogo Scrabble e declara o vencedor.
 
+
 Conceitos aplicados:
+
 
 Arrays para mapear letras para pontuação
 
+
 Loops para percorrer strings
+
 
 Funções para organizar código
 
+
 c
+
 // Exemplo:
+
 // Palavra 1: "computer" -> 14 pontos
+
 // Palavra 2: "science"  -> 12 pontos
+
 // Resultado: Jogador 1 vence!
+
 Desafio: Mapear letras maiúsculas e minúsculas para a mesma pontuação.
 
+
 2. Readability
+
 Programa que calcula o nível de leitura de um texto usando o índice Coleman-Liau.
 
+
 text
+
 Índice = 0.0588 * L - 0.296 * S - 15.8
+
 (L = média de letras por 100 palavras, S = média de frases por 100 palavras)
+
 Conceitos aplicados:
+
+
 
 Percorrer strings caractere por caractere
 
+
 Contar letras, palavras e frases
+
 
 Matemática com floats
 
+
 Loops aninhados
+
 
 Desafio: Identificar corretamente o que é letra, palavra ou frase (espaços, pontuação, etc.)
 
+
 Desafios que enfrentei
+
 Entender que string = array de char: No começo era abstrato, mas depois de manipular caractere por caractere fez sentido
 
+
 Contar palavras corretamente: Perceber que espaços separam palavras, mas o último caractere não tem espaço
+
+entender como rotacionar um numero para o exercicio caesar.c
 
 cd week2/caesar
 
