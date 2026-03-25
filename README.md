@@ -2,9 +2,9 @@
 
 ![CS50](https://img.shields.io/badge/CS50-Harvard-blue)
 
-https://img.shields.io/badge/Progress-Week_5-yellow
+![Progress](https://img.shields.io/badge/Progress-Week_5-yellow)
 
-https://img.shields.io/badge/Status-In_Progress-orange
+![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 
 🎓 Sobre o Curso
 Este repositório contém meus projetos, exercícios e anotações do curso CS50: Introduction to Computer Science da Harvard University, ministrado pelo professor David J. Malan.
