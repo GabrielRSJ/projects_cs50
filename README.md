@@ -1,6 +1,6 @@
 # projects_cs50
 
-https://img.shields.io/badge/CS50-Harvard-blue
+![CS50](https://img.shields.io/badge/CS50-Harvard-blue)
 
 https://img.shields.io/badge/Progress-Week_5-yellow
 
