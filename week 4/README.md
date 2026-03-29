@@ -90,7 +90,8 @@ Programa que recupera imagens JPEG de um cartão de memória corrompido (arquivo
 ## 📦 Como executar
 
 ### Volume
-```bash
 cd week4/volume
 make volume
 ./volume input.wav output.wav 2.0
+
+link apenas do codigo: 
