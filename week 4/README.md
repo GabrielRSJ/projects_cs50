@@ -90,8 +90,11 @@ Programa que recupera imagens JPEG de um cartão de memória corrompido (arquivo
 ## 📦 Como executar
 
 ### Volume
+
 cd week4/volume
+
 make volume
+
 ./volume input.wav output.wav 2.0
 
-link apenas do codigo: 
+link apenas do codigo: https://github.com/GabrielRSJ/projects_cs50/blob/main/week%204/volume.c
