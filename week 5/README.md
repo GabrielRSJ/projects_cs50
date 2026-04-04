@@ -91,3 +91,9 @@ O projeto mais importante da semana (e talvez do curso!). Implementei um correto
 ## 📦 Como executar
 
 ### Inheritance
+
+cd week5/inheritance
+make inheritance
+./inheritance
+
+codigo: https://github.com/GabrielRSJ/projects_cs50/blob/main/week%205/inheritance.c
